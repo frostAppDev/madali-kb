@@ -1,7 +1,9 @@
 ---
 home: true
 title: Home
-heroImage: https://vuejs.press/images/hero.png
+heroImage: /images/logo-madali.svg
+heroText:
+tagline:
 actions:
   - text: Get Started
     link: /get-started.html
